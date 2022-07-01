@@ -6,6 +6,8 @@ In the telecom industry, customers are able to choose from multiple service prov
 For many incumbent operators, retaining high profitable customers is the number one business goal.
 
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
+
+The data can be found [here](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view?usp=sharing)
 ###
 
 # Business Objective:
